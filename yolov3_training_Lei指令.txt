@@ -1,0 +1,3 @@
+darknet.exe detector train data/Lei.data cfg/yolov3-tiny-Lei.cfg_train darknet53.conv.74
+
+darknet.exe detector test data/Lei.data cfg/yolov3-tiny-Lei.cfg_test SaveWeights_Lei/yolov3-tiny-Lei_25000.weights data/leitest/Lei_test_1.jpg -thresh 0.1

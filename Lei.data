@@ -1,0 +1,5 @@
+classes= 1
+train  = data/trainLei.txt
+valid  = data/testLei.txt
+names = data/Lei.names
+backup = backup/

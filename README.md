@@ -17,3 +17,5 @@
 雖然leitest、testLei.txt裡面沒啥東西，但是可以視情況自己丟點圖片去當驗證資料集
 
 ![image](https://github.com/julia8468bd/Identify_yolov3/blob/master/%E8%BE%A8%E8%AD%98%E6%88%91%E5%AE%B6%E8%B2%93%E9%98%BF%E5%8B%92.jpg)
+
+參考資料：https://github.com/AlexeyAB/darknet
